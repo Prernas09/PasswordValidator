@@ -14,4 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-###A/N Hi, This is Prerna. This is an upgraded version of a password validator source code available online. Hence it is a unique version.
+### A/N Hi, This is Prerna. This is an upgraded version of a password validator source code available online. Hence it is a unique version.
